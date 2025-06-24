@@ -9,6 +9,6 @@
 
 Visualize unemployment trends over time by age group, and allow users to interactively filter the data by gender in order to explore how unemployment patterns differ between male and female populations.
 
-![Preview]()
+![Preview](Unemployment-Over-Time-Analysis.png)
 
 [View on Tableau Public](https://public.tableau.com/views/Section3_17507660965240/UnemploymentOverTimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
