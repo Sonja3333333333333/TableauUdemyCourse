@@ -11,4 +11,4 @@ Visualize unemployment trends over time by age group, and allow users to interac
 
 ![Preview](Unemployment-Over-Time-Analysis.png)
 
-[View on Tableau Public](https://public.tableau.com/views/Section3_17507660965240/UnemploymentOverTimeAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View on Tableau Public](https://public.tableau.com/app/profile/bohdanovych.sofiia/viz/Unemployment-Over-Time-Analysis/UnemploymentOverTimeAnalysis)
